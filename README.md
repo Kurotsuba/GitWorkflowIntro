@@ -16,7 +16,7 @@ supports teams and projects where deployments are made regularly.
 
 Steps of Github Workflow:
 [TOC]
-#### Create a branch
+### Details
 #### Add commits
 #### Open a pull request
 #### Discuss and review
