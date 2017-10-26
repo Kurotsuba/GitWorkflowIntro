@@ -104,3 +104,7 @@ Steps of Github Workflow:
 	go back in time to understand why and how a decision was made.
 
 The content above are referenced from [Understanding the Github Flow](https://guides.github.com/introduction/flow/)
+
+Student information:
+- name: 王韡熙
+- ID: 516030910463
