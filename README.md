@@ -103,15 +103,4 @@ Steps of Github Workflow:
 	changes to your code. Because they're searchable, they let anyone 
 	go back in time to understand why and how a decision was made.
 
-	
-```flow
-st=>start: Start
-e=>end: End
-op1=>operation: My Operation
-sub1=>subroutine: My Subroutine
-cond=>condition: Yes or No?
-io=>inputoutput: catch something...
-st->op1->cond
-cond(yes)->io->e
-cond(no)->sub1(right)->op1
-```
+The content above are referenced from [Understanding the Github Flow](https://guides.github.com/introduction/flow/)
