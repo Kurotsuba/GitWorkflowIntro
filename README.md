@@ -102,4 +102,16 @@ Steps of Github Workflow:
 	Once merged, Pull Requests preserve a record of the historical 
 	changes to your code. Because they're searchable, they let anyone 
 	go back in time to understand why and how a decision was made.
+
 	
+	```flow
+st=>start: Start
+e=>end: End
+op1=>operation: My Operation
+sub1=>subroutine: My Subroutine
+cond=>condition: Yes or No?
+io=>inputoutput: catch something...
+st->op1->cond
+cond(yes)->io->e
+cond(no)->sub1(right)->op1
+```
