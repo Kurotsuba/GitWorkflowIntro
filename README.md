@@ -91,7 +91,9 @@ Steps of Github Workflow:
 	tests, you can deploy your changes to verify them in production. If 
 	your branch causes issues, you can roll it back by deploying the 
 	existing master into production.
-	
+
+<del>But I think this step is not nessacery for us</del>
+
 #### Merge to master
 
 	Now that your changes have been verified in production, it is 
