@@ -10,7 +10,7 @@ GitHub Flow is a lightweight, branch-based workflow that
 supports teams and projects where deployments are made regularly. 
 
 
-##Github WorkFlow
+## Github WorkFlow
 
 Steps of Github Workflow:
 1. *Create a branch*
@@ -20,9 +20,9 @@ Steps of Github Workflow:
 5. *Deploy*
 6. *Merge to master*
 
-###Details
+### Details
 
-####Create a branch
+#### Create a branch
 
     When you're working on a project, you're going to have a
     bunch of different features or ideas in progress at any 
