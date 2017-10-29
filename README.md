@@ -14,8 +14,8 @@ supports teams and projects where deployments are made regularly.
 ## Github WorkFlow
 
 Steps of Github Workflow:
-1. Create a branch
-2. Add commits
+1. [Create a branch](https://github.com/Kurotsuba/GitWorkflowIntro/edit/master/README.md#create-a-branch)
+2. [Add commits](https://github.com/Kurotsuba/GitWorkflowIntro/edit/master/README.md#add-commits)
 3. Open a pull request
 4. Discuss and review
 5. Deploy
