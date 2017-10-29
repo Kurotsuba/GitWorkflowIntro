@@ -16,10 +16,10 @@ supports teams and projects where deployments are made regularly.
 Steps of Github Workflow:
 1. [Create a branch](https://github.com/Kurotsuba/GitWorkflowIntro#create-a-branch)
 2. [Add commits](https://github.com/Kurotsuba/GitWorkflowIntro#add-commits)
-3. Open a pull request
-4. Discuss and review
-5. Deploy
-6. Merge to master
+3. [Open a pull request](https://github.com/Kurotsuba/GitWorkflowIntro#open-a-pull-request)
+4. [Discuss and review](https://github.com/Kurotsuba/GitWorkflowIntro#discuss-and-review)
+5. [Deploy](https://github.com/Kurotsuba/GitWorkflowIntro#deploy)
+6. [Merge to master](https://github.com/Kurotsuba/GitWorkflowIntro#merge-to-master)
 
 
 #### Create a branch
